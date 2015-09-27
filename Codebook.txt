@@ -1,0 +1,5 @@
+activitylabel : strings containing the name of activities labelled 1 to 6
+data: data frame containing all readings without filter
+feature: strings containing the name of the 561 features measured
+q1data: data frame containing only the readings with mean() and std()
+tidydata: data frame containing the average of mean() and std() readings averaged for each participant and activity
